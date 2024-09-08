@@ -34,8 +34,3 @@ Bu proje, Unity ile geliştirilmiş bir 2D platform oyunudur. Oyuncu, belirli se
 ![lvl2 3](https://github.com/user-attachments/assets/47f98767-b6ea-4425-ac57-101a9e8a9d4a)
 
 ![lvl2 4](https://github.com/user-attachments/assets/cc659271-bfff-45f6-8277-8ff13c459ae1)
-
-
-
-## İletişim
-Email: uzeyirask@hotmail.com
