@@ -13,7 +13,7 @@ Bu proje, Unity ile geliştirilmiş bir 2D platform oyunudur. Oyuncu, belirli se
    git clone https://github.com/uzeyirask/2DZipZipFrog.git
 
 ## Bilgisayara(Windows) Yükleme
-- [APK dosyasını buradan indirin](https://github.com/uzeyirask/2DZipZipFrog/releases/tag/v1.0-ForPc)
+- [zip dosyasını buradan indirin](https://github.com/uzeyirask/2DZipZipFrog/releases/tag/v1.0-ForPc)
 - Zip dosyasını cihazınıza yükledikten sonra exe'yi çalıştırarak başlatın.
 
 ## APK Yükleme
